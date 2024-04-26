@@ -1,0 +1,19 @@
+Per calcolare l'impatto sul business dovuto alla non raggiungibilità del servizio per 10 minuti a causa di un attacco DDoS:
+10 minuti * 1.500 €/minuto = 15.000 €
+Quindi, l'impatto sul business dovuto alla non raggiungibilità del servizio per 10 minuti a causa dell'attacco DDoS è di 15.000 €.Stiamo comunque parlando di numeri; ma l'impatto su un business è anche di tipo qualitativo, come ad esempio:pubblicità negativa(immaginate una banca che non riesce ad assicurare servizio agli intestatari dei conti corrente), sfiducia dei clienti, responsabilità etica e sociale dell’organizzazione e così via. L’analisi qualitativa non restituisce un numero  ma piuttosto una stima degli impatti sul business di un evento.
+
+Le azioni preventive sono misure che un'organizzazione può adottare per ridurre la probabilità di subire attacchi DDoS e per mitigare i danni in caso di tali attacchi.
+Ecco una spiegazione più dettagliata delle azioni preventive menzionate:
+- Avere soluzioni anti-DDoS: Le soluzioni anti-DDoS possono includere servizi di protezione forniti da terzi o da software/hardware progettati per rilevare attacchi del genere. Utilizzano tecniche come il filtraggio e diminuzione del traffico basata su firme per bloccare o ridirigere il flusso dannoso di minaccia esterna prima che raggiunga il server.
+- Backup e ridondanza: Aggiungere e configurare sistemi di backup cioè avere duplicati delle risorse critiche, come server, database e altri componenti , pronti per essere attivati in caso di interruzione del servizio.Questo assicura che il servizio possa essere rapidamente riattivato nonostante un attacco DDoS o altri eventi catastrofici. 
+- Monitoraggio proattivo: Implementare sistemi di monitoraggio proattivo che consentono di rilevare anomalie nel traffico di rete e nel comportamento del server. Il monitoraggio continuo consente di identificare gli attacchi DDoS in corso e di attivare le contromisure prima che causino danni significativi.SIEM e SOAR sono tecnologie chiave per prevenire e gestire gli attacchi DDoS e altre minacce:
+	1) I SIEM sono dei tool che mettono a disposizione delle compagnie analisi del log in real-time, di fatto garantendo un livello di protezione ottimale contro minacce interne/esterne. Hanno la possibilità di definire degli alert configurabili cioè si potrebbe creare una policy di sicurezza per allertare il responsabile di un dato sistema, qualora fossero evidenziati accessi anomali alla macchina;
+	2) Il SOAR può essere visto come un complemento del SIEM. Mentre il SIEM si focalizza sul salvataggio ed il monitoraggio degli eventi di sicurezza, il SOAR aggiunge delle funzionalità di risposta automatica a determinati eventi, aggiungendo flussi di lavoro automatizzati.
+- Pianificazione della continuità del business: Creare piani dettagliati per la continuità del business che definiscano le procedure e le responsabilità per affrontare le interruzioni del servizio.
+- Aggiornamento continuo della sicurezza: Mantenere aggiornate e migliorare regolarmente le politiche di sicurezza dell'organizzazione per affrontare le minacce emergenti e innovative.Questo potrebbe includere l'aggiornamento dei protocolli di sicurezza e la formazione del personale per riconoscere e rispondere agli attacchi DDoS.
+Adottando queste azioni preventive, un'organizzazione può ridurre la sua esposizione agli attacchi DDoS e mitigare l'impatto sul business in caso di interruzioni del servizio.
+
+
+
+
+
